@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertDP", "ConvertDP.csproj", "{E5CBB609-D067-4678-8ECB-4C671EFEE09B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CBB609-D067-4678-8ECB-4C671EFEE09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CBB609-D067-4678-8ECB-4C671EFEE09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CBB609-D067-4678-8ECB-4C671EFEE09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CBB609-D067-4678-8ECB-4C671EFEE09B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D615FB-564B-46C5-8A2A-B0D4940C1A99}
+	EndGlobalSection
+EndGlobal

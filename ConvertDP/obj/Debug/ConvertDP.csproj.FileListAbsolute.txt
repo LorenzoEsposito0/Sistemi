@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\sistemi quarta\ConvertDP\obj\Debug\ConvertDP.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\sistemi quarta\ConvertDP\obj\Debug\ConvertDP.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\sistemi quarta\ConvertDP\obj\Debug\ConvertDP.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\sistemi quarta\ConvertDP\bin\Debug\ConvertDP.exe.config
+C:\Users\hp\Desktop\sistemi quarta\ConvertDP\bin\Debug\ConvertDP.exe
+C:\Users\hp\Desktop\sistemi quarta\ConvertDP\bin\Debug\ConvertDP.pdb
+C:\Users\hp\Desktop\sistemi quarta\ConvertDP\obj\Debug\ConvertDP.exe
+C:\Users\hp\Desktop\sistemi quarta\ConvertDP\obj\Debug\ConvertDP.pdb

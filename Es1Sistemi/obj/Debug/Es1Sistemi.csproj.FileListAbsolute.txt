@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\sistemi quarta\Es1Sistemi\bin\Debug\Es1Sistemi.exe.config
+C:\Users\hp\Desktop\sistemi quarta\Es1Sistemi\bin\Debug\Es1Sistemi.exe
+C:\Users\hp\Desktop\sistemi quarta\Es1Sistemi\bin\Debug\Es1Sistemi.pdb
+C:\Users\hp\Desktop\sistemi quarta\Es1Sistemi\obj\Debug\Es1Sistemi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\sistemi quarta\Es1Sistemi\obj\Debug\Es1Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\sistemi quarta\Es1Sistemi\obj\Debug\Es1Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\sistemi quarta\Es1Sistemi\obj\Debug\Es1Sistemi.exe
+C:\Users\hp\Desktop\sistemi quarta\Es1Sistemi\obj\Debug\Es1Sistemi.pdb
