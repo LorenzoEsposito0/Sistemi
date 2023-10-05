@@ -17,13 +17,21 @@ namespace Conversioni
 
             bool[] bn = ConvertDpToBin(DP);
 
+            Console.WriteLine("metodo 1");
             for (int i = 0; i < bn.Length; i++)
             {
                 Console.Write(Convert.ToInt32(bn[i]));
             }
             Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("metodo 2");
             Console.WriteLine(ConvertDPToInt(DP));
-
+            Console.WriteLine();
+            Console.WriteLine("metodo 3");
+            Console.WriteLine(ConvertBnToInt(bn));
+            Console.WriteLine();
+            Console.WriteLine("metodo 4");
+            Console.WriteLine(ConvertBnToDec(bn));
             Console.WriteLine();
             Console.ReadLine();
         }
@@ -47,7 +55,7 @@ namespace Conversioni
             return bn;
         }
 
-        static int ConvertDPToInt(int[] dp)
+        static int ConvertDPToInt(int[] dp) // 2
         {
             int dec = 0;
             int y = 3;
@@ -58,6 +66,38 @@ namespace Conversioni
             }
 
             return dec;
+        }
+
+        static int ConvertBnToInt(bool[] bn)// 3
+        {
+            int dec = 0;
+            int j = bn.Length - 1;
+
+            for(int i = 0; i < bn.Length; i++)
+            {
+                if(bn[i])
+                {
+                    dec += (int)Math.Pow(2, j );
+                }
+                j--;
+            }
+
+            return dec;
+        }
+
+        static int ConvertBnToDec(bool[] bn)// 4
+        {
+            int decimale = 0; 
+
+            for(int i = bn.Length-1; i >= 0; i--)
+            {
+                if (bn[i])
+                {
+                    //parto con indice = 31, se bn[i] == true aggiunge e decimale fa decimale + 2 elevato alla 32-1-0, ogni volta decrementa la i;
+                    decimale += (int)Math.Pow(2, bn.Length - 1 - i);
+                }
+            }
+            return decimale;
         }
 
 
